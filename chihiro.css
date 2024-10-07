@@ -1,0 +1,65 @@
+body {
+    color: #333333;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    text-align: left;
+    text-indent: 20px;
+    letter-spacing: -1x;
+}
+
+figure {
+    background-color: #F2EDED;
+    border: 1px solid #CCC;
+    text-align: center;
+    padding: 15px;
+    margin: 30px;
+}
+
+.maintittle {
+    color: white;
+    text-align: center;
+    position: relative;
+    top: -80px;
+}
+
+.imgch {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-image: url(/img/chihirowalklamp.jpg);
+    background-repeat: no-repeat;
+    height: 280px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+    margin-bottom: 5000px;
+}
+
+.linkchar {
+    font-size: 20px;
+}
+
+.prgall {
+    font-size: 22px;
+    text-align: left;
+    text-indent: 15px;
+    padding: 0 200px;
+}
+
+.imgbk {
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
+    float: right;
+    margin: 0 0 10px 10px;
+}
+
+#soloimg {
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+}
+
+.sectittle {
+    transform: translateX(420px);
+}
